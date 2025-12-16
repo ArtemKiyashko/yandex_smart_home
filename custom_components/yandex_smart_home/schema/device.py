@@ -50,6 +50,7 @@ class DeviceType(StrEnum):
     OPENABLE = "devices.types.openable"
     OPENABLE_CURTAIN = "devices.types.openable.curtain"
     OPENABLE_VALVE = "devices.types.openable.valve"
+    OPENABLE_DOOR_LOCK = "devices.types.openable.door_lock"
     HUMIDIFIER = "devices.types.humidifier"
     PURIFIER = "devices.types.purifier"
     VACUUM_CLEANER = "devices.types.vacuum_cleaner"
